@@ -1,0 +1,19 @@
+.p-generic {
+    background-color: rgb(241, 163, 176);
+    font-family: Verdana, sans-serif;
+}
+
+#num-2 {
+    color: #00f;
+    font-size: 36px;
+}
+
+.p-special {
+    font-size: 24px;
+}
+
+#num-4 {
+    background-color: rgb(191, 255, 41);
+    font-size: 24px;
+    font-weight: bold;
+}
